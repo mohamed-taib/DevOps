@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/microservice1":{"guestpath":"/home/vagrant/microservice1","hostpath":"C:/Users/Tsieb/Desktop/DEVOPS/TASK 1/flask_micro/post_service","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Tsieb/Desktop/DEVOPS/TASK 1/flask_micro","disabled":false,"__vagrantfile":true}}}
